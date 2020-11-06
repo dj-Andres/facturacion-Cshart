@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\bin\Debug\facturacion.exe.config
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\bin\Debug\facturacion.exe
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\bin\Debug\facturacion.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.frmClientes.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.Properties.Resources.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.exe
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.Frmciudad.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.frmReporteCliente.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.frmProducto.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.frmPresentacion.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\facturacion\facturacion\obj\Debug\facturacion.frmMedida.resources
